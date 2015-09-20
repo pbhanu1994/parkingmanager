@@ -1,0 +1,28 @@
+#wholepage{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#maincontent{
+	background-color: #F2DBAA;
+	border: 1px solid black;
+	width: 100%;
+	height: 800px;
+	border-radius: 20px;
+}
+#seeyousoon{
+	text-align: center;
+	font-size: 250%;
+	padding-top: 100px;
+}
+#loginbutton{
+	float: left;
+	width: 200px;
+	height: 100px;
+	margin-top: 0px;
+	padding-left: 380px;
+}
+h2{
+	text-align: center;
+	padding-top: 50px;
+}

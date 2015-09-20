@@ -1,0 +1,47 @@
+#mainfilecontent{
+	height: 100%;
+	background-color: grey;
+	margin-top: 20px;
+	position: relative;
+	border-radius: 30px;
+	background-image: url(images/filebg.jpg);
+}
+#filetext{
+	color: yellow;
+	text-align: center;
+	margin-top: 10px;
+	border-radius: 30px;
+	text-align: center;
+	border:1px solid cyan;
+}
+#fileheader{
+	padding-top: 1px;
+}
+#table{
+	border: 3px solid cyan;
+	border-radius: 10px;
+	margin-left: 10%;
+}
+#detailstext{
+	color: yellow;
+	font-size: x-large;
+}
+#continuebutton{
+	margin-left: 45%;
+	width: 120px;
+}
+#clickoncontinue{
+	color: white;
+}
+#headtable{
+	color: #c4ff68;
+}
+#submitbutton{
+	margin-left: 38%;
+	color: yellow;
+	font-weight: bold;
+	width: 150px;
+	height: 30px;
+	background-color: green;
+
+}

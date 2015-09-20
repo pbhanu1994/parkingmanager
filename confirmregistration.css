@@ -1,0 +1,91 @@
+#wholepage{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#pagewrapper{
+	min-height: 400px;
+}
+#header{
+	height: 100px;
+	width: 100%;
+	background-color: grey;
+	border-radius: 20px;
+}
+
+#headtext{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 20px;
+	text-decoration: overline;
+	color: white;
+	position: absolute;
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-left: 350px;
+}
+#logo{
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 2px;
+	position: absolute;
+	background-size: 50px;
+	
+}
+#maincontent{
+	border: 1px solid black;
+	float: left;
+	border-radius: 20px;
+	width: 100%;
+	height: 900px;
+	margin-top: 5px;
+	background-color: #FCE09F;
+}
+.thankyou{
+	font-size: 250%;
+	text-align: center;
+	margin-top: 0px;
+}
+#thank{
+	font-size: 250%;
+	text-align: center;
+	margin-top: 0px;
+}
+#note{
+	border: 1px solid black;
+	width: 500px;
+	float: left;
+	height: 300px;
+	border-radius: 20px;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 220px;
+	background-color: #CDF7D8;
+	padding-left: 20px;
+}
+.notedetails{
+	font-family: georgia;
+	color: black;
+}
+#confirm{
+	padding-left: 200px;
+	
+}
+#confirmtext{
+	color: maroon;
+}
+#backbutton{
+	clear: both;
+	float: left;
+	width: 150px;
+	height: 60px;
+	margin-left: 28%;
+}
+#continuebutton{
+	float: right;
+	width: 100px;
+	height: 50px;
+	padding-right: 20px;
+}

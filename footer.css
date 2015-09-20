@@ -1,0 +1,15 @@
+#footer{
+	background-color: #ffd5f5;
+	border: 1px solid black;
+	border-radius: 20px;
+	float: left;
+	width: 100%;
+	height: 30px;
+	margin-top: 5px;
+}
+#footertext{
+	margin-top: 0px;
+	padding-top: 5px;
+	position: relative;
+	text-align: center;
+}

@@ -1,0 +1,66 @@
+#maincontent{
+	width: 100%;
+	height: 100%;
+	float: left;
+	background-image: url(images/departure.jpg);
+	border-radius: 30px;
+	margin-top: 5px;
+}
+#departuretext{
+	border: 1px solid cyan;
+	border-radius: 30px;
+	text-align: center;
+	color: yellow;
+}
+#vehicleno{
+	height: 40px;
+	font-size: 30px;
+	color: green;
+	margin-left: 30%;
+	font-weight: bold;
+	float: left;
+	background-color: #CCFFCC;
+}
+#updatebutton{
+	height: 40px;
+	width: 130px;
+	font-size: 20px;
+	float: left;
+	background-color: lightgreen;
+	color: green;
+	font-weight: bold;
+}
+#enter{
+	color: white;
+	text-align: center;
+}
+table{
+	width: 100%;
+	margin-top: 30px;
+	border: 2px solid yellow;
+	border-radius: 10px;
+}
+caption{
+	color: white;
+	font-size: x-large;
+}
+thead{
+	color: yellow;
+	font-size: large;
+	background-color: red;
+}
+tbody{
+	color: white;
+	font-size: large;
+}
+#updatebutton1{
+
+	width: 140px;
+	height: 40px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 45%;
+	font-size: large;
+	background-color: lightyellow;
+	color: red;
+}

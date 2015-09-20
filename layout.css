@@ -1,0 +1,197 @@
+#box{
+	width: 100%;
+	height: 1000px;
+	background-color: #c7cdff;
+	position: relative;
+	margin-top: 40px;
+	border-radius: 25px;
+}
+#continue{
+	width: 130px;
+	position: relative;
+	margin-top: 35px;
+	margin-left: 280px;
+}
+#parktext{
+	text-align: center;
+	color: #0d1660;
+	text-decoration: overline;
+	padding-top: 5px;
+}
+.spacetext{
+	text-align: center;
+	color: yellow;
+	padding-left: 50%;
+	padding-top: 55px;
+}
+#parkingarea{
+	width: 1000px;
+	height: 800px;
+	margin-top: 10px;
+	background-color: white;
+	border-radius: 10px;
+	position: absolute;
+	margin-left: 170px;
+}
+#parking1{
+	width: 150px;
+	height: 650px;
+	float: left;
+	margin-top: 150px;
+	background-color: #727973;
+
+}
+#car1{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 60px;
+	background-color: lightgreen;
+	margin-left: 10px;
+	
+}
+#car2{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	background-color: lightgreen;
+	margin-left: 10px;
+}
+#car3{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	margin-left: 10px;
+	background-color: lightgreen;
+}
+#car4{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	margin-left: 10px;
+	background-color: lightgreen;
+}
+#car5{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	margin-left: 10px;
+	background-color: lightgreen;
+}
+#parking2{
+	width: 150px;
+	height: 650px;
+	background-color: #727973;
+	margin-top: 150px;
+	float: right;
+}
+#car6{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 60px;
+	margin-left: 10px;
+	background-color: lightgreen;
+}
+#car7{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	background-color: lightgreen;
+	margin-left: 10px;
+}
+#car8{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	background-color: lightgreen;
+	margin-left: 10px;
+}
+#car9{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	background-color: lightgreen;
+	margin-left: 10px;
+}
+#car10{
+	border: 1px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: 30px;
+	background-color: lightgreen;
+	margin-left: 10px;
+}
+#parking3{
+	background-color: #727973;
+	width: 100%;
+	height: 150px;
+	margin-top: 0px;
+}
+#car11{
+	border: 1px solid white;
+	width: 80px;
+	height: 120px;
+	float: left;
+	background-color: lightgreen;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+#car12{
+	border: 1px solid white;
+	width: 80px;
+	height: 120px;
+	float: left;
+	margin-left: 30px;
+	background-color: lightgreen;
+	margin-top: 10px;
+}
+#car13{
+	border: 1px solid white;
+	width: 80px;
+	height: 120px;
+	float: left;
+	margin-left: 30px;
+	background-color: lightgreen;
+	margin-top: 10px;
+}
+#car14{
+	border: 1px solid white;
+	width: 80px;
+	height: 120px;
+	float: left;
+	margin-left: 30px;
+	background-color: lightgreen;
+	margin-top: 10px;
+}
+#car15{
+	border: 1px solid white;
+	width: 80px;
+	height: 120px;
+	float: left;
+	margin-left: 30px;
+	background-color: lightgreen;
+	margin-top: 10px;
+}
+#car16{
+	border: 1px solid white;
+	width: 80px;
+	height: 120px;
+	background-color: lightgreen;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+#carsign{
+	width: 400px;
+	position: relative;
+	margin-left: 15%;
+	margin-top: 5%;
+}

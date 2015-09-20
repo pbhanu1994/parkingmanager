@@ -1,0 +1,74 @@
+#table{
+	border:2px solid cyan;
+	border-radius: 20px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+}
+#maincontent{
+	background-color: grey;
+	margin-top: 40px;
+	position: relative;
+	height: 100%;
+	border-radius: 30px;
+	background-image: url(images/viewbg.jpg);
+}
+#detailstext{
+	color: yellow;
+	font-size: x-large;
+}
+.theadtext{
+	color: white;
+	font-size: x-large;
+}
+.tbodytext{
+	color: yellow;
+	font-size: x-large;
+}
+#tbody{
+	background-color: black;
+	opacity: 0.5;
+	border-radius: 30px;
+}
+#savebutton{
+	width: 120px;
+	height: 30px;
+	color: yellow;
+	float: left;
+	margin-top: 100px;
+	margin-left: 55%;
+	font-weight: bold;
+	background-color: green;
+}
+#backbutton{
+	width: 120px;
+	height: 30px;
+	color: yellow;
+	float: left;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: -350px;
+	font-weight: bold;
+	background-color: green;
+}
+#getinfo{
+	border:3px solid orange;
+	height: 150px;
+	margin-top: 50px;
+	border-radius: 30px;
+}
+#records{
+	color: white;
+	text-align: center;
+}
+#viewpng{
+	width: 150px;
+	float: left;
+	margin-left: 44%;
+}
+#viewdetails{
+	border: 3px solid cyan;
+	border-radius: 30px;
+	height: 150px;
+}

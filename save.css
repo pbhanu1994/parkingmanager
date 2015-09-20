@@ -1,0 +1,21 @@
+#savebody{
+	background-color: grey;
+	width: 100%;
+	height: 100%;
+	border-radius: 30px;
+	float: left;
+	margin-top: 5px;
+}
+#savetext{
+	text-align: center;
+	color: white;
+	margin-top: 10%;
+}
+#saveimage{
+	width: 130px;
+	margin-left: 45%;
+}
+#notetext{
+	color: yellow;
+	margin-top: 50px;
+}
